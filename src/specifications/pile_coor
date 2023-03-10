@@ -1,0 +1,2 @@
+with TAD_Pile;
+package Pile_Coor is new TAD_Pile(Type_Coordonnee) ;
